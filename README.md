@@ -1,1 +1,1 @@
-# Leetcode-solutions
+# This repository contains leetcode solutions.
